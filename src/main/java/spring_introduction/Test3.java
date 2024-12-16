@@ -11,8 +11,7 @@ public class Test3 {
 
 //        Animal animal = new Cat();
         Person person = new Person(animal);
-        person.callYourAnimal();
-        context.close();
+        
 
     }
 }
